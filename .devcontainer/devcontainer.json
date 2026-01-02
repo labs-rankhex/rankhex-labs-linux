@@ -1,0 +1,10 @@
+{
+  "name": "RankHex Linux Labs",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+  "postCreateCommand": "bash file-system/file-handling/.lab/setup.sh",
+  "customizations": {
+    "codespaces": {
+      "timeoutMinutes": 60
+    }
+  }
+}

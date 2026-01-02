@@ -1,0 +1,3 @@
+- Use `touch` or `echo` to create files
+- Use `chmod` to change permissions
+- Use `cat` to check file contents

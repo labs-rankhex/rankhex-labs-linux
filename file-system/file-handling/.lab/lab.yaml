@@ -1,0 +1,7 @@
+name: Linux File Handling Basics
+difficulty: beginner
+timeout: 60
+skills:
+  - linux
+  - filesystem
+  - permissions
