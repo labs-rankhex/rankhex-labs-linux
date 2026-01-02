@@ -1,0 +1,7 @@
+name: Linux File Permissions
+difficulty: beginner
+timeout: 60
+skills:
+  - linux
+  - permissions
+  - chmod

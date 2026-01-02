@@ -1,0 +1,3 @@
+- Use `touch` to create files
+- Use `chmod` to change permissions
+- Use `ls -l` to inspect ownership and permissions
